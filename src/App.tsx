@@ -108,8 +108,8 @@ function App() {
                           type="login"
                           formProps={{
                             initialValues: {
-                              email: "info@refine.dev",
-                              password: "refine-supabase",
+                              email: "zizobahaapersonal@gmail.com",
+                              password: "zizo2636046",
                             },
                           }}
                         />
